@@ -1,2 +1,2 @@
 # testeIO
-Projeto criado para teste dos recursos IO do Java
+Projeto criado para estudar e testar os recursos IO do Java
